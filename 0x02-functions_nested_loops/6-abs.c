@@ -1,16 +1,18 @@
-#include "_putcher"
+#include "main.h"
 
 /**
- * _abs - computes the absolute value of an integer.
- *@n: the number whose absolute value is to be determine.
- *
- * Return: the absolute value.
- */
-int _abs(int n)
+* _abs - computes the absolute value of an integer  
+* @i: input number as an integer.
+* 
+* Return: absolute value 
+*/
+int _abs(int i)
+{if (i >= 0)
 {
-if (n < 0)
-return (-n);
-else
-return (n);
+return (i);
 }
- 
+else
+{
+return (i * -1);
+}
+} 
