@@ -1,1 +1,1 @@
-main.h
+echo > '_main.h'
