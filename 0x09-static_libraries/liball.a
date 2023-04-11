@@ -430,16 +430,24 @@ int main(void)
 _puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
 return (0);
 }
-_putchar.c/     0           0     0     644     246       `
+_putchar.c/     0           0     0     644     434       `
 #include <unistd.h>
 
 /**
  * _putchar - writes the character c to stdout
+<<<<<<< HEAD
+* @c: The character to print
+*
+* Return: On success 1.
+* On error, -1 is returned, and errno is set appropriately.
+*/
+=======
  * @c: The character to print
  *
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
  */
+>>>>>>> 7fb6514dd7148c87afffceae603482a02109dc09
 int _putchar(char c)
 {
 return (write(1, &c, 1));
