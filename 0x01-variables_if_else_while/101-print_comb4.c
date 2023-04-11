@@ -34,3 +34,7 @@ i++;
 putchar('\n');
 return (0);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7fb6514dd7148c87afffceae603482a02109dc09

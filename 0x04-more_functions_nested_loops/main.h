@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 int _putchar(int c);
+=======
+>>>>>>> 7fb6514dd7148c87afffceae603482a02109dc09
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);

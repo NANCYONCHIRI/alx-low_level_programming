@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 int main(void)
@@ -15,3 +16,6 @@ putchar('\n'); /* trailing '\n' needed in Standard C */
 	
 return 0;
 }
+=======
+0-putchar.c
+>>>>>>> 7fb6514dd7148c87afffceae603482a02109dc09
