@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+0x05-pointers_arrays_strings
+=======
 # 0x05. C - Pointers, arrays and strings
 ![image](https://user-images.githubusercontent.com/105258746/190977571-d5135d31-02a5-4ff3-88de-d9062d6cfe13.png)
 
@@ -30,3 +33,4 @@
 - File: `101-keygen.c` is a program that generates random valid passwords for the program 101-crackme.
 
 - File: `_putchar.c` contains the _putchar() function definition.0x05-pointers_arrays_strings
+>>>>>>> 7fb6514dd7148c87afffceae603482a02109dc09

@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+echo > '_main.h'
+=======
 #include "main.h"
 
 /**
@@ -26,3 +29,4 @@ largest = c;
 
 return (largest);
 }
+>>>>>>> 7fb6514dd7148c87afffceae603482a02109dc09

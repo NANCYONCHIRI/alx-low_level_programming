@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+#main.h
+=======
 #include <stdio.h>
 #include "main.h"
 
@@ -21,3 +24,4 @@ printf("%d is the largest number\n", largest);
 
 return (0);
 }
+>>>>>>> 7fb6514dd7148c87afffceae603482a02109dc09

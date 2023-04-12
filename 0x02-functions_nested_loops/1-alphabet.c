@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+#include "main.h" 
+
+
+/**
+* print_alphabet - Make the alphabet
+*
+* Return: void
+*/
+void print_alphabet(void)
+{
+char c;
+
+for (c = 'a'; c <= 'z'; c++)
+{
+_putchar(c);
+}
+
+=======
 #include "holberton.h"
 
 /**
@@ -15,5 +34,6 @@ while (c <= 'z')
 _putchar(c);
 c++;
 }
+>>>>>>> 7fb6514dd7148c87afffceae603482a02109dc09
 _putchar('\n');
 }

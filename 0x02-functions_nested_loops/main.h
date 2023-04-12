@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+int _putchar(char c);
+=======
 int _putchar(char c); 
+>>>>>>> 7fb6514dd7148c87afffceae603482a02109dc09
 void print_alphabet(void);
 void print_alphabet_x10(void);
 int _islower(int c);
